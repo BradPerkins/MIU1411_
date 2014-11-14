@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/bradperkins/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "787cd39",
+	"name": "Informational App",
+	"id": "infoapp.fs.com",
+	"analytics": true,
+	"publisher": "bradperkins",
+	"url": "http://",
+	"version": "1.0",
+	"description": "",
+	"copyright": "2014 by bradperkins",
+	"guid": "e31cf907-c065-471f-8f77-d5fb6ec6eb85",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
